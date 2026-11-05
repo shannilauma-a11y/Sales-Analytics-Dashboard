@@ -39,3 +39,6 @@ How to Run the Project
 Developer
 
 Business and IT Student | Data Analytics Project
+##Dashboard preview
+
+![Sales Analytics Dashboard](dashboard_screenshot.png)
